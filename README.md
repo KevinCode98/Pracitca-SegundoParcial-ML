@@ -1,8 +1,11 @@
 # Desarrollo de la practica del segundo parcial en Machine Learning
 
 Desarrollado por: Kevin Guillermo Carrillo González
+
 Grupo: 7M
+
 Registro: 20110355
+
 
 
 ## Ejemplos
